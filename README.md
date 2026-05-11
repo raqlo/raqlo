@@ -1,11 +1,70 @@
-<h1 align="center">Hi 👋, I'm Raquel López</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<!-- Header -->
+<div align="center">
+  <h1>Hey, I'm Raquel 👋</h1>
+  <p><em>Web developer with a frontend soul — I build things that feel as good as they work.</em></p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raqlo&show_icons=true&locale=en" alt="raqlo" /></p>
+I'm a web developer with a strong frontend focus and a soft spot for the details that make software genuinely good — not just functional. I've worked across ecommerce, fintech, SaaS, and agencies, but what I care about most is building systems that are thoughtful, and user centered.
+
+Right now I'm deep in a personal arc around software architecture — studying DDD, object design (RDD), and clean code practices. I'm focusing on creating a clean frontend arquitecture that's scalable, maintainable and flexible enogh so it can evolve as future technologies emerge, minimize pains and avoid rewrites. I'm also the go-to person on [Ordotype](https://ordotype.fr), a medical content platform for French doctors, where I handle everything from authentication systems to frontend infrastructure.
+
+I'm based in the Dominican Republic 🇩🇴, soon relocating to Spain 🇪🇸 — and actively looking for new opportunities there. I work with teams and clients across different timezones, and I bring a business-aware lens to technical decisions.
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat)
+
+**Tooling & practices**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Exploring**
+
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-8A2BE2?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A66C2?style=flat)
+![TDD](https://img.shields.io/badge/TDD-E34F26?style=flat)
+
+---
+
+## 📚 Currently learning
+
+I'm on a deliberate study arc — not chasing frameworks, but building foundations.
+
+- **Domain-Driven Design** — entities, value objects, aggregates, and how they map to real TypeScript codebases
+- **Software architecture patterns** — Dependency Injection, the Result pattern, Humble Object, event-driven design
+- **Test-driven development** — working through katas with strict TDD discipline
+- **French** 🇫🇷 — 400+ days and counting on Duolingo, because half my users read in French
+
+The goal isn't to collect knowledge. It's to think better about the systems I design and build.
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raquelcle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raquelcle@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Always thinking about the tradeoffs. Always writing cleaner code than yesterday.</sub>
+</div>
