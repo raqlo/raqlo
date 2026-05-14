@@ -8,9 +8,9 @@
 
 ## About me
 
-I'm a web developer with a strong frontend focus and a soft spot for the details that make software genuinely good — not just functional. I've worked across ecommerce, fintech, SaaS, and agencies, but what I care about most is building systems that are thoughtful, and user centered.
+I'm a web developer with a strong frontend focus and a soft spot for the details that make software genuinely good (understandable, functional and escalable). I've worked across ecommerce, fintech, SaaS, and agencies, but what I care about most is building systems that are thoughtful and user centered.
 
-Right now I'm deep in a personal arc around software architecture — studying DDD, object design (RDD), and clean code practices. I'm focusing on creating a clean frontend arquitecture that's scalable, maintainable and flexible enogh so it can evolve as future technologies emerge, minimize pains and avoid rewrites. I'm also the go-to person on [Ordotype](https://ordotype.fr), a medical content platform for French doctors, where I handle everything from authentication systems to frontend infrastructure.
+Right now I'm deep in a personal arc around software architecture — studying DDD, object design (RDD), and clean code practices. I'm focusing on creating a clean frontend arquitecture that's scalable, maintainable and flexible enogh so it can evolve as future technologies emerge, minimize pains and avoid rewrites.
 
 I'm based in the Dominican Republic 🇩🇴, soon relocating to Spain 🇪🇸 — and actively looking for new opportunities there. I work with teams and clients across different timezones, and I bring a business-aware lens to technical decisions.
 
@@ -42,19 +42,6 @@ I'm based in the Dominican Republic 🇩🇴, soon relocating to Spain 🇪🇸 
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-8A2BE2?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A66C2?style=flat)
 ![TDD](https://img.shields.io/badge/TDD-E34F26?style=flat)
-
----
-
-## 📚 Currently learning
-
-I'm on a deliberate study arc — not chasing frameworks, but building foundations.
-
-- **Domain-Driven Design** — entities, value objects, aggregates, and how they map to real TypeScript codebases
-- **Software architecture patterns** — Dependency Injection, the Result pattern, Humble Object, event-driven design
-- **Test-driven development** — working through katas with strict TDD discipline
-- **French** 🇫🇷 — 400+ days and counting on Duolingo, because half my users read in French
-
-The goal isn't to collect knowledge. It's to think better about the systems I design and build.
 
 ---
 
