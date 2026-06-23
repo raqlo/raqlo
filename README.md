@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hey, I'm Raquel 👋</h1>
-  <p><em>Web developer with a frontend soul — I build things that feel as good as they work.</em></p>
+  <p><em>I used to design interfaces now I design systems</em></p>
 </div>
 
 ---
@@ -9,8 +9,6 @@
 ## About me
 
 I'm a web developer with a strong frontend focus and a soft spot for the details that make software genuinely good (understandable, functional and escalable). I've worked across ecommerce, fintech, SaaS, and agencies, but what I care about most is building systems that are thoughtful and user centered.
-
-Right now I'm deep in a personal arc around software architecture — studying DDD, object design (RDD), and clean code practices. I'm based in the Dominican Republic 🇩🇴, soon relocating to Spain 🇪🇸 — and actively looking for new opportunities there. I work with teams and clients across different timezones, and I bring a business-aware lens to technical decisions.
 
 ---
 
